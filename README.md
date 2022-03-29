@@ -71,19 +71,39 @@ url = "https://www.flipkart.com/search?q=best%20laptops%20under%2080000&otracker
 
 So, with this, we will get started with writing our own code for Laptops for gaming under 80000/- on Flipkart website
 
+![1](https://user-images.githubusercontent.com/99526815/160583435-931a3e58-7751-40bf-800b-631e945a8123.PNG)
+
+![11](https://user-images.githubusercontent.com/99526815/160583565-743ff7c9-371b-4434-a06c-d4e581cb3752.PNG)
+
 Use urlopen to open the url and read the details in it.
+
+![2](https://user-images.githubusercontent.com/99526815/160583613-88274185-d582-48be-acfe-d4746df67f97.PNG)
 
 Get the Name of the produt:
 
+![3](https://user-images.githubusercontent.com/99526815/160583662-b24e431d-3e50-4d13-a841-4d186d957aeb.PNG)
+
 Get the Original Price of the product:
+
+![4](https://user-images.githubusercontent.com/99526815/160583782-5711a8f2-0208-4791-98d4-8c7288594940.PNG)
 
 Get the Discount Percentage on the product:
 
+![5](https://user-images.githubusercontent.com/99526815/160583849-2aa1f7cb-4450-488c-9bc4-42e23d26417f.PNG)
+
 Get the Discounted Price of the product:
+
+![6](https://user-images.githubusercontent.com/99526815/160583890-995519ca-dc53-4b6a-ac46-d76a947c3397.PNG)
 
 Get the Product Ratings:
 
+![7](https://user-images.githubusercontent.com/99526815/160583938-6b346cdd-e703-40c4-9608-fb5b0bd23492.PNG)
+
 Get the Number of Product Reviews:
+
+![8](https://user-images.githubusercontent.com/99526815/160583965-2d3088a5-a801-438c-b456-8b952ae705e8.PNG)
+![9](https://user-images.githubusercontent.com/99526815/160583978-200cc778-8c0c-494d-8097-5d935b73e33f.PNG)
+![10](https://user-images.githubusercontent.com/99526815/160584017-fb8fb81f-080d-4cfa-80aa-d5c3dfb6cd92.PNG)
 
 
 ## Conclusion:
